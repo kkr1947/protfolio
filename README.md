@@ -9,27 +9,29 @@ Course Name - Bsc (Hons) Computer Science
 
 ***Note : Data mentioned in the website are just for the sake of assignment**
 
+Site Live : https://kkr1947.github.io/protfolio/
+
 ### HomePage
 
 Contains basic information and hobbies
 
-![](/home/dduc-cc/Documents/simplenote/images/Screenshot from 2021-08-07 09-24-33.png)
+![Homepage](https://drive.google.com/uc?export=view&id=1MVZwMgRINxYAFfQSXoMWcAimmmA0wMTr)
 
 ### Education
 
 Contains college information
 
-![](/home/dduc-cc/Documents/simplenote/images/Screenshot from 2021-08-07 09-24-37.png)
+![Education](https://drive.google.com/uc?export=view&id=1osEcQj9H4vKpHqXtiZaUBGc5Yb6ISqaA)
 
 ### Skills
 
 List of Skills with progress/level.
 
-![](/home/dduc-cc/Documents/simplenote/images/Screenshot from 2021-08-07 09-24-41.png)
+![Skills](https://drive.google.com/uc?export=view&id=1d78mlIaO0wPLS5Zz4lW8fNu4snpKvH1m)
 
 ### Contact
 
 Basic contact info.
 
-![](/home/dduc-cc/Documents/simplenote/images/Screenshot from 2021-08-07 09-24-44-16283088673661.png)
+![Contact](https://drive.google.com/uc?export=view&id=18B3AcrI3AolbZ3X3WUxJ7sZDJoUzEVxv)
 
